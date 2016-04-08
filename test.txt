@@ -11,3 +11,4 @@ TestSSH4_mucximilian
 TestSSH2_voidgeist
 TestSSH3_voidgeist
 TestSSH4_voidgeist
+TestSSH5_voidgeist
