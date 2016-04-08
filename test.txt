@@ -6,3 +6,4 @@ TestSSH2
 TestSSH1_voidgeist
 TestSSH1_mucximilian
 TestSSH2_mucximilian
+TestSSH3_mucximilian
