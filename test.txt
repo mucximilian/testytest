@@ -4,3 +4,4 @@ TestHTTPS3
 TestSSH1
 TestSSH2
 TestSSH1_voidgeist
+TestSSH1_mucximilian
